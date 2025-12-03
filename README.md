@@ -24,7 +24,9 @@ Running the App
 
 
 (or run ApiKeysApplication from IntelliJ)
-'''
+
+```
+
 Base URL:
 
 http://localhost:8080/api
