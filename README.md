@@ -1,4 +1,4 @@
-Spring API Keys
+# Spring API Keys
 
 A simple Spring Boot service for managing API clients and their API keys.
 It handles key generation, hashing, rotation, revocation, and verification—without needing a database or external dependencies.
